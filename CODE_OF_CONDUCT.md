@@ -40,7 +40,7 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 ## Scope
 
-This Code of Conduct applies to all content on tensorflow.org, TensorFlow’s GitHub organization, or any other official TensorFlow web presence allowing for community interactions, as well as at all official TensorFlow events, whether offline or online.
+This Code of Conduct applies to all content on [tensorflow.org](https://www.tensorflow.org), [TensorFlow’s GitHub organization](https://www.github.com/tensorflow), or any other official TensorFlow web presence allowing for community interactions, as well as at all official TensorFlow events, whether offline or online.
 
 The Code of Conduct also applies within project spaces and in public spaces whenever an individual is representing TensorFlow or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed or de facto representative at an online or offline event. 
 
