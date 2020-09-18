@@ -43,3 +43,5 @@ gradleBuild
 Podfile.lock
 Pods
 xcuserdata
+# vim config
+.ycm_extra_conf.py

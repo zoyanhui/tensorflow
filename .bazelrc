@@ -141,7 +141,7 @@ build:rbe --remote_accept_cached=true
 build:rbe --remote_cache=remotebuildexecution.googleapis.com
 build:rbe --remote_executor=remotebuildexecution.googleapis.com
 build:rbe --remote_local_fallback=false
-build:rbe --remote_timeout=600
+build:rbe --remote_timeout=6000
 build:rbe --spawn_strategy=remote
 build:rbe --strategy=Genrule=remote
 build:rbe --strategy=Closure=remote
